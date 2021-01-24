@@ -1,0 +1,15 @@
+{
+  "name": "socket-chat-example",
+  "version": "0.2.0",
+  "description": "basic chat example server with web client",
+  "dependencies": {
+    "audic": "^2.0.0",
+    "express": "^4.17.1",
+    "node-osc": "^5.2.2",
+    "play-sound": "^1.1.3",
+    "serialport": "^9.0.6",
+    "socket.io": "^2.4.1",
+    "sound-play": "^1.1.0",
+    "util": "^0.12.3"
+  }
+}
